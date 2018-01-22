@@ -9,5 +9,5 @@ There are two options:
 
 ## Third-party Libraries/Protocols Used
 
-[Dallas Semiconductor 1-Wire API for Java](https://www.maximintegrated.com/en/products/ibutton/software/1wire/1wire_api.cfm)
+[Dallas Semiconductor 1-Wire API for Java](https://www.maximintegrated.com/en/products/ibutton/software/1wire/1wire_api.cfm)  
 [RXTX](http://rxtx.qbang.org/wiki/index.php/Main_Page)
